@@ -1,8 +1,27 @@
+body{
+  background-image: url('../images/spikes.png');
+}
 .mainContent{
     margin-top: 20px;
 }
 .navbarLeft{
     flex-grow: 0;
+}
+.profile-img{
+  float: left;
+  margin-right: 20px;
+}
+
+.card{
+  background-color: #4aaaa5 !important; 
+  color: #fff !important;
+}
+
+.navbar-brand{
+  background-color: #4aaaa5 !important;
+  color: white !important; 
+  padding: 10px !important;
+  margin-top: -8px;
 }
 
 .footer {
